@@ -1,0 +1,18 @@
+composer:
+  last: Zelenka
+  first: Jan Dismas
+title: Credo
+subtitle: inserted into Caldara’s Missa Providentiæ
+genre: mass
+id: ZWV 31
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 vl, vla, b, org
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: D-Dl
+    shelfmark: Mus.2170-D-7
+    date: 1726–1733
+    rism: 212006716
+    url: https://digital.slub-dresden.de/id426606841
+    license: public domain
+    principal: true
